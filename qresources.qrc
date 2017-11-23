@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/sujeira.png</file>
+        <file>resources/aspirador.png</file>
+        <file>resources/executarAgente.png</file>
+        <file>resources/pausarAgente.png</file>
+        <file>resources/stopAgente.png</file>
+    </qresource>
+</RCC>
